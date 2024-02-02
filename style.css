@@ -1,0 +1,21 @@
+html{
+    background-color: #aa80f3;
+    }
+h1{
+    color: white;
+    text-transform: uppercase;
+    font-family: "Protest Riot", sans-serif;
+    text-align: center;
+    }
+.poster{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    font-family: "Nanum Gothic", sans-serif;
+    text-align: center;
+}
+.motivational{
+    border: 5px solid white;
+    width: 100%;
+}
